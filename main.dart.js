@@ -47590,16 +47590,15 @@ A.qb.prototype={
 L(a){var s,r=this,q=null,p=r.d===B.cB,o=p?r.c:q,n=r.SF()
 p=p?B.l:B.j
 s=r.SF()
-p=A.aGW(q,q,n,A.ao(B.d.a7(178.5),s.B()>>>16&255,s.B()>>>8&255,s.B()&255),q,q,8,q,q,p,q,q,B.B,q,q,new A.d2(A.u1(17),B.r),q,q,q,q,q)
-return A.aki(A.eT(A.aBW(A.aFJ(r.aey(),B.bM,A.aMc(),A.aMd()),o,p),70,380))},
+p=A.aGW(q,q,n,A.ao(B.d.a7(178.5),s.B()>>>16&255,s.B()>>>8&255,s.B()&255),q,q,8,q,q,p,q,q,B.B,q,q,new A.d2(A.u1(22),B.r),q,q,q,q,q)
+return A.aki(A.eT(A.aBW(A.aFJ(r.aey(),B.bM,A.aMc(),A.aMd()),o,p),60,380))},
 SF(){switch(this.d.a){case 2:return B.lb
 case 3:return B.vF
-case 0:return B.j
-case 1:default:return B.j}},
+case 0:case 1:return B.j}},
 aey(){switch(this.d.a){case 1:return B.Sv
 case 2:return B.Qq
 case 3:return B.Qr
-case 0:default:return A.iJ(A.b([B.Yj,A.jj("lib/assets/images/google.png",B.P,B.bf,null,75,!1,90)],t.p),B.Q,B.BB,B.br,B.a4,0)}}}
+case 0:return A.iJ(A.b([B.Yj,A.jj("lib/assets/images/google.png",B.P,B.bf,null,75,!1,90)],t.p),B.Q,B.BB,B.br,B.a4,0)}}}
 A.a23.prototype={
 L(a){var s,r,q=null,p=A.bx(a,q,t.w).w,o=t.p,n=A.b([],o)
 for(s=t.bk,r=0;r<3;++r)n.push(new A.pH(new A.aAd(this,r),q,q,s))
