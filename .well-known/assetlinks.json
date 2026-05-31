@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "com.danphemusic.danphemusic",
       "sha256_cert_fingerprints": [
-        "06:76:90:63:E3:CE:3A:7C:B4:77:37:D1:58:90:A8:C5:1A:71:FD:A3:43:D0:CD:05:53:B9:A5:62:4A:84:B8:F7"
+        "06:76:90:63:E3:CE:3A:7C:B4:77:37:D1:58:90:A8:C5:1A:71:FD:A3:43:D0:CD:05:53:B9:A5:62:4A:84:B8:F7",
+        "70:75:1B:CD:85:D9:7A:40:13:87:3C:D0:F4:D4:EC:12:4D:52:67:E5:95:99:1E:21:3F:0C:27:98:1E:1E:A1:FB"
       ]
     }
   }
