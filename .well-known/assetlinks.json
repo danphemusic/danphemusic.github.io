@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.danphemusic.danphemusic",
+      "sha256_cert_fingerprints": [
+        "06:76:90:63:E3:CE:3A:7C:B4:77:37:D1:58:90:A8:C5:1A:71:FD:A3:43:D0:CD:05:53:B9:A5:62:4A:84:B8:F7"
+      ]
+    }
+  }
+]
