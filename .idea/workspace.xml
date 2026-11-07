@@ -6,32 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3ce50a53-0047-4640-9c1f-2bc04646ace8" name="Changes" comment="init commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.last_build_id" beforeDir="false" afterPath="$PROJECT_DIR$/.last_build_id" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.bin" beforeDir="false" afterPath="$PROJECT_DIR$/assets/AssetManifest.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.bin.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/AssetManifest.bin.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/FontManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/FontManifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/assets/NOTICES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/MaterialIcons-Regular.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/shaders/ink_sparkle.frag" beforeDir="false" afterPath="$PROJECT_DIR$/assets/shaders/ink_sparkle.frag" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/shaders/stretch_effect.frag" beforeDir="false" afterPath="$PROJECT_DIR$/assets/shaders/stretch_effect.frag" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/canvaskit.js" beforeDir="false" afterPath="$PROJECT_DIR$/canvaskit/canvaskit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/canvaskit.js.symbols" beforeDir="false" afterPath="$PROJECT_DIR$/canvaskit/canvaskit.js.symbols" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/canvaskit.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/canvaskit/canvaskit.wasm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/chromium/canvaskit.js" beforeDir="false" afterPath="$PROJECT_DIR$/canvaskit/chromium/canvaskit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/chromium/canvaskit.js.symbols" beforeDir="false" afterPath="$PROJECT_DIR$/canvaskit/chromium/canvaskit.js.symbols" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/chromium/canvaskit.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/canvaskit/chromium/canvaskit.wasm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/skwasm.js" beforeDir="false" afterPath="$PROJECT_DIR$/canvaskit/skwasm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/skwasm.js.symbols" beforeDir="false" afterPath="$PROJECT_DIR$/canvaskit/skwasm.js.symbols" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/skwasm.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/canvaskit/skwasm.wasm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/skwasm_heavy.js" beforeDir="false" afterPath="$PROJECT_DIR$/canvaskit/skwasm_heavy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/skwasm_heavy.js.symbols" beforeDir="false" afterPath="$PROJECT_DIR$/canvaskit/skwasm_heavy.js.symbols" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/skwasm_heavy.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/canvaskit/skwasm_heavy.wasm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/wimp.js" beforeDir="false" afterPath="$PROJECT_DIR$/canvaskit/wimp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/wimp.js.symbols" beforeDir="false" afterPath="$PROJECT_DIR$/canvaskit/wimp.js.symbols" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/wimp.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/canvaskit/wimp.wasm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.dart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version.json" beforeDir="false" afterPath="$PROJECT_DIR$/version.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780235013908</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1790598742461</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1790598742461</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
